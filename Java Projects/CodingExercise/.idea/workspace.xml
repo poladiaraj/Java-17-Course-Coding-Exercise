@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30c876a4-e33b-405b-832b-01f0617b1556" name="Changes" comment="Java 17 Course CodingExercise files">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE001_SpeedConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE002_MegaBytesConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE003_BarkingDog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE004_LeapYearCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE005_DecimalComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE006_EqualSumChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE007_TeenNumberChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE008_AreaCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE009_MinutesToYearsAndDaysCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE010_EqualityPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section4/CE011_PlayingCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE012_NumberInWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE013_NumberOfDaysInMonth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE014_SumOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE015_NumberPalindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE016_FirstAndLastDigitSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE017_EvenDigitSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE018_SharedDigit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE019_LastDigitChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE020_GreatestCommonDivisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE021_AllFactors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE022_PerfectNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE023_NumberToWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE024_FlourPackProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE025_LargestPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE026_DiagonalStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE027_InputCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section5/CE028_PaintJob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/CE029_SumCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/CE030_Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/CE031_WallArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/CE032_Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/CE033_CarpetCostCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/CE034_ComplexOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/CE035_Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/CE036_PoolArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Carpet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/ComplexNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Cuboid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Floor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/SimpleCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section6/Wall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Bed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Bedroom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/CE037_Composition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/CE038_Encapsulation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/CE039_Polymorphism.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/CE040_BillsBurgers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Ceiling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/DeluxeBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Ford.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Hamburger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/HealthyBurger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Holden.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Lamp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Mitsubishi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CodingExercise/com/rpoladia/jpm/section7/Wall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE001_SpeedConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE002_MegaBytesConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE003_BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE004_LeapYearCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE005_DecimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE006_EqualSumChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE007_TeenNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE008_AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE009_MinutesToYearsAndDaysCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE010_EqualityPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section4/CE011_PlayingCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE012_NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE013_NumberOfDaysInMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE014_SumOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE015_NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE016_FirstAndLastDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE017_EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE018_SharedDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE019_LastDigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE020_GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE021_AllFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE022_PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE023_NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE024_FlourPackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE025_LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE026_DiagonalStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE027_InputCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE028_PaintJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section6/CE029_SumCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section6/CE030_Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section6/CE031_WallArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section6/CE032_Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section6/CE033_CarpetCostCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section6/CE034_ComplexOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section6/CE035_Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section6/CE036_PoolArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section7/CE037_Composition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section7/CE038_Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section7/CE039_Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/rpoladia/jpm/section7/CE040_BillsBurgers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dw5TFvca8GMYEbEavcCzOpOuly" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.CE040_BillsBurgers">
+    <configuration name="CE036_PoolArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rpoladia.jpm.section6.CE036_PoolArea" />
+      <module name="CodingExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rpoladia.jpm.section6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CE037_Composition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rpoladia.jpm.section7.CE037_Composition" />
+      <module name="CodingExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rpoladia.jpm.section7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CE038_Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rpoladia.jpm.section7.CE038_Encapsulation" />
+      <module name="CodingExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rpoladia.jpm.section7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CE039_Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rpoladia.jpm.section7.CE039_Polymorphism" />
+      <module name="CodingExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rpoladia.jpm.section7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CE040_BillsBurgers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rpoladia.jpm.section7.CE040_BillsBurgers" />
+      <module name="CodingExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rpoladia.jpm.section7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CE040_BillsBurgers" />
+        <item itemvalue="Application.CE039_Polymorphism" />
+        <item itemvalue="Application.CE038_Encapsulation" />
+        <item itemvalue="Application.CE037_Composition" />
+        <item itemvalue="Application.CE036_PoolArea" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30c876a4-e33b-405b-832b-01f0617b1556" name="Changes" comment="" />
+      <created>1661597313271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661597313271</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java 17 Course CodingExercise files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java 17 Course CodingExercise files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE015_NumberPalindrome.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE022_PerfectNumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/rpoladia/jpm/section5/CE023_NumberToWords.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/rpoladia/jpm/section7/CE040_BillsBurgers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
